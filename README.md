@@ -1,5 +1,12 @@
-# MachineLearning_Coursera
+# Welcome to MachineLearning_Coursera
 Machine Learning course(Stanford University-Coursera) assignments
+
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
+The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
+Machine learning algorithms are often categorized as supervised or unsupervised.
+Supervised machine learning algorithms can apply what has been learned in the past to new data using labeled examples to predict future events. 
+In contrast, unsupervised machine learning algorithms are used when the information used to train is neither classified nor labeled.
+Reinforcement machine learning algorithms is a learning method that interacts with its environment by producing actions and discovers errors or rewards.
 
 ## Welcome to GitHub Pages
 
@@ -7,34 +14,4 @@ You can use the [editor on GitHub](https://github.com/ManishaMahapatra1/MachineL
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManishaMahapatra1/MachineLearning_Coursera/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
